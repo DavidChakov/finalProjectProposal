@@ -3,7 +3,7 @@
 ## What idea(s) do you have for your final project?
 
 2D bullet hell game
-    Likely in Godot?
+Likely in Godot?
 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
